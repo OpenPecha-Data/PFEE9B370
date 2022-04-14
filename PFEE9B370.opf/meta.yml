@@ -1,0 +1,31 @@
+id: PFEE9B370
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG6089
+  instance_id: http://purl.bdrc.io/resource/IE1KG6089
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    bo:
+    - བོད་ཀྱི་གསོ་རིག་སྐོར་གྱི་ཤེས་བྱ་དྲིས་ལེན་བློ་གསལ་ཉེར་མཁོ།
+  alt_title:
+    zh-latn-pinyin-x-ndia:
+    - zang yi yao zhi shi wen da
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: false
+  volumes:
+    6fd91ffabfa74242b7b23390b3383884:
+      title: པོད ༡་བོད་ཀྱི་གསོ་རིག་སྐོར་གྱི་ཤེས་བྱ་དྲིས་ལེན་བློ་གསལ་ཉེར་མཁོ
+      volume_number: 1
+      base_file: UT1KG6089_I1KG6281_0000.txt
+      reference: http://purl.bdrc.io/resource/VLF558ADE5E842BB30
+      image_group: I1KG6281
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1KG6089
+  - http://purl.bdrc.io/resource/W1KG6089
+  ocr_software: Namsel
+created_at: '2021-12-22T10:53:53.700709'
+last_modified_at: '2021-12-22T10:53:53.700716'
